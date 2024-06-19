@@ -1,0 +1,117 @@
+
+Body{
+
+    margin-right: -5px;
+}
+
+h1{
+background-color: #eb2222;
+color: white;
+font-size: 40px;
+
+
+}
+.Logo {
+height: 100px;
+
+
+
+}
+
+
+h2{
+background-color: red;
+font-size: 34px;
+color: white;
+}
+.Normal {
+    height: 500px;
+margin-top: -20px;
+
+}
+.Eins {
+
+    margin-left: 730px;
+    margin-top: -500px;
+margin-right: 10px;
+margin-bottom: 150px;
+border-radius: 5px;
+
+}
+h3 {
+    background-color: red;
+    font-size: 34px;
+    color: white;
+
+
+}
+.lite {
+    padding: 10px;
+   
+    height: 500px;
+    margin-top: -30px;
+    margin-left: 400px;
+    border-radius: 5px;
+}
+.zwei {
+
+    margin-left: 20px;
+    margin-right: 700px;
+    margin-top: -400px;
+    border-radius: 5px;
+
+}
+
+
+.drei{
+height: 500px;
+border-radius: 5px;
+padding: 1px;
+background-color: #000000;
+}
+
+h4{
+    background-color: red;
+    font-size: 34px;
+    color: white; 
+    margin-top: 100px;
+}
+.oled {
+    margin-left: 840px;
+    margin-top: -450px;
+margin-right: 10px;
+margin-bottom: 200px;
+border-radius: 5px;
+}
+.force {
+    height: 150px;
+    margin-left: 950px;
+   margin-top: -300px;
+}
+h9 {
+color: #ff0000;
+font-size: 48px;
+
+background-color: #000000;
+border-radius: 5px;
+
+
+}
+body{
+    background-color: #ffffff;
+    
+}
+.forcess {
+
+    height: 500px;
+    margin-top: 180px;
+    margin-bottom: 200px;
+}
+.front{
+  color: #000000; 
+  text-decoration: none;  
+}
+
+.front:hover{
+    text-decoration: none;
+}

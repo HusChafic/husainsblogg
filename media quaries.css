@@ -1,0 +1,111 @@
+@media print {
+    body{
+        filter: grayscale(1);
+    }
+    #nö{
+        display: none !important;
+    }
+
+
+    #Erste {
+
+        display: none !important;
+
+    }
+
+    #Normal {
+        display: none;
+    }
+    .lite {
+
+        display: none;
+    }
+    .drei {
+
+        display: none;
+    }
+
+    .force {
+        display: none;
+    }
+    .Nin {
+        display: none;
+    }
+    .Mario {
+        display: none;
+    }
+    .Noob {
+        display: none;
+    }
+    .Oben {
+
+
+        display: none;
+    }
+    .All{
+        display: none;
+    }
+    .Pro {
+        display: none;
+    }
+    .Mamor {
+        display: none;
+    }
+    .TextE {
+        width: 400px;
+        margin-top: 00px;
+        margin-left: -100px;
+        margin-bottom: -250px;
+    }
+    .Pros {
+        width: 400px;
+        margin-top: 10px; 
+        margin-left: -5px;
+    }
+    .Eins {
+        width: 550px;
+        margin-top: 170px;  
+        margin-left: 90px;
+        margin-bottom: 300px;
+        
+    }
+    .zwei {
+        width: 400px;
+        margin-top: 300px; 
+        margin-left: 100px; 
+        margin-bottom: 500px;
+    }
+    .oled{
+        width: 400px;
+        margin-top: 170px;  
+        margin-left: 100px;
+        margin-bottom: 300px;
+    }
+    .Nis {
+        width: 400px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .Mice {
+        width: 400px;
+        margin-top: 0px;
+    }
+    .AHA {
+        display: none;
+    }
+  
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        }
